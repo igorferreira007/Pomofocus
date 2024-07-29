@@ -1,0 +1,38 @@
+Explorer
+
+Nivel 01
+Satage 01 - Fundamentos da programação Web
+
+Nivel 02
+Stage 02 - Introdução ao HTML e CSS
+
+Nivel 03
+Stage 03 - Avançando no HTML e CSS
+
+Nivel 04
+Stage 04 - Introdução à programação, lógica e algoritmos com JavaScript
+
+Nivel 05
+Stage 05 - Avançando na programação WEB com JavaScript
+
+Nivel 06
+Stage 06 - Javascript antes do framework
+
+Nivel 07
+Stage 07 - Git & Github
+
+Nivel 08
+Stage 08 - Backend
+
+Nivel 09
+Stage 09 - Frontend
+
+Nivel 10
+Stage 10 - API Restful
+
+Nivel 11
+Stage 11 - Testes Automatizados
+
+Desafio Final
+Food Explorer - A aplicação para desenvolvimento é um cardápio digital para um restaurante fictício, conhecido como foodExplorer.
+Tecnologias usadas: HTML, CSS, JavaScript, Node.js, React.js.
